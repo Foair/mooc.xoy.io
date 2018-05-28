@@ -32,7 +32,7 @@ python mooc.py https://www.icourse163.org/course/TONGJI-53004
 
 ## 下载
 
-打开 `Videos/Vidoes.txt` 即可查看视频下载地址，复制下载地址后，使用自己喜欢的下载工具下载即可。
+打开 `Videos/Videos.txt` 即可查看视频下载地址，复制下载地址后，使用自己喜欢的下载工具下载即可。
 
 ?> 课程文件中有 `Videos` 文件夹，建议将视频下载到 `Videos/` 中。
 
