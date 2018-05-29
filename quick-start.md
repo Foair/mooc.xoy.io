@@ -10,7 +10,7 @@ pip install requests BeautifulSoup4 lxml
 
 ## 准备
 
-然后 [下载最新程序](https://github.com/Foair/course-crawler/archive/master.zip) 并解压。（也可以使用 `git clone https://github.com/Foair/course-crawler.git`。）
+然后 [下载最新程序](https://github.com/Foair/course-crawler/archive/master.zip) 并解包。（也可以使用 `git clone https://github.com/Foair/course-crawler.git`。）
 
 ## 输入
 

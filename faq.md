@@ -13,4 +13,4 @@
 
 > 我想看旧版文档。
 
-请前往 https://a.mooc.xoy.io/ 查看。
+请前往 https://amooc.xoy.io/ 查看。
