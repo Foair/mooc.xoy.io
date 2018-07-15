@@ -3,22 +3,25 @@
 <head>
   <meta charset="utf-8">
   <title>Course Crawler</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge,Chrome=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
   <meta name="description" content="MOOC 课程下载">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link href="https://cdn.bootcss.com/docsify/4.6.10/themes/vue.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.bootcss.com/docsify/4.6.10/themes/vue.css">
 </head>
 <body>
   <nav>
+    <a href="mailto:master@foair.com">联络我</a>
     <a href="https://github.com/Foair/course-crawler">GitHub</a>
   </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
       loadSidebar: true,
-      coverpage: false,
-      name: '',
-      repo: ''
+      alias: {
+        "/.*/_sidebar.md": "/_sidebar.md"
+      },
+      name: "Course Crawler",
+      repo: "https://github.com/Foair/course-crawler"
     }
   </script>
   <script src="https://cdn.bootcss.com/docsify/4.6.10/docsify.min.js"></script>

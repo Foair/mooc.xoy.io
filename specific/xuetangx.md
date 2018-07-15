@@ -17,12 +17,14 @@ http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043_2x_2015_T2+sp/about
 在浏览器中登录后，按 `F12`，在浏览器控制台中执行
 
 ```javascript
-console.log(document.cookie);
+copy(document.cookie);
 ```
 
-然后复制输出的内容。
+执行完成后，cookies 会自动复制到粘贴板。
 
-![控制台获得 cookies](../images/fwwbgojaq.png)
+（也可以 `console.log(document.cookie);` 然后手动复制输出结果。）
+
+![控制台获得 cookies](../images/fw0s59oq.png)
 
 在调用程序获取课程的时候，会自动要求输入 cookies，粘贴便是。
 

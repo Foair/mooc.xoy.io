@@ -18,6 +18,6 @@
 
 ## 感谢
 
-docsify https://github.com/QingWei-Li/docsify/
+docsify https://github.com/QingWei-Li/docsify
 
 以及你们的支持。
