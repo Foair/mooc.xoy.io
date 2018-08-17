@@ -16,6 +16,7 @@
 * [FAQ](faq.md)
 * [反馈和建议](feedback.md)
 * [已知问题](known-issues.md)
+* [版本历史](history.md)
 * [一些技巧/建议](knack.md)
 * [未来可能的计划](future-plan.md)
 * [告示板](notice.md)
